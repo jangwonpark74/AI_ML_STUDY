@@ -28,3 +28,18 @@
   $ pip3 install pylint
 
 ```
+
+## install scipy 
+ ```
+   $ pip3 install scipy
+```
+
+## install matplotlib
+```
+   $ pip3 install matplotlib
+```
+
+## install scikit-learn
+```
+   $ pip3 install -U scikit-learn
+```
