@@ -9,4 +9,9 @@
  - Install Cuda Toolkit
    check CUDA_PATH : ok
  - Install cuDNN donwload & install :ok
- 
+
+ - Install git for windows 10 : ok
+ - cloning tensorflow 
+   git clone https://github.com/tensorflow/tensorflow.git
+ - configure path for python after install python 3.7.2 : ok
+ - Microsoft visual studio 2015 update 3 build tool 설치 
