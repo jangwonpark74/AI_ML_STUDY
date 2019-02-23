@@ -9,6 +9,7 @@
  - Install Cuda Toolkit
    check CUDA_PATH : ok
  - Install cuDNN donwload & install :ok
+   [install method](https://medium.com/@akshaysin_86681/installing-cuda-and-cudnn-on-windows-10-f735585159f7)
 
  - Install git for windows 10 : ok
  - cloning tensorflow 
