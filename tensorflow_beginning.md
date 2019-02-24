@@ -18,20 +18,25 @@
  - configure path for python after install python 3.7.2 : ok
  - Microsoft visual studio 2015 update 3 build tool 설치 
 
-## installing tensorflow nightly build 
-```
-   $pip install tf-nightly-gpu
-```
+``
 
-## Install Tensorflow 
+## Install Tensorflow (CPU only) 
 ```
    $ pip3 install --upgrade tensorflow	
 
 ``` 
 Nvidia GPU toolkit 설치 후 다음 명령 수행
 
+## Install Tensorflow (stable, GPU)
+
 ```
    $ pip3 install --upgrade tensorflow-gpu
+
+```
+## installing tensorflow nightly build (unstable, GPU)
+```
+   $pip install tf-nightly-gpu
+
 ```
 
 
