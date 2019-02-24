@@ -19,6 +19,18 @@
  - Microsoft visual studio 2015 update 3 build tool 설치 
 
 
+## Install Tensorflow 
+```
+   $ pip3 install --upgrade tensorflow	
+
+``` 
+Nvidia GPU toolkit 설치 후 다음 명령 수행
+
+```
+   $ pip3 install --upgrade tensorflow-gpu
+```
+
+
 ## Use of python in Visual studio code 
  - install python 
  - configure python path and pip3 path 
@@ -36,8 +48,13 @@
 
 ## install matplotlib
 ```
-   $ pip3 install matplotlib
+   $ pip3 install numpy matplotlib pillow
+
 ```
+  - numpy - 수치 계산 라이브러리
+  - matplotlib - 그래프 출력 라이브러리
+  - pillow - 이미지 처리 라이브러리 
+
 
 ## install scikit-learn
 ```
