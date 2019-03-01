@@ -2,8 +2,8 @@
  - Peter Harrington
  
 # Preface
-  - <challenge >   Stochastic caculus for credit risk analysis
-  - <Response  >   Take "Discrete-time stochastic Systems" class. 
+  - challenge:   Stochastic caculus for credit risk analysis
+  - Response :   Take "Discrete-time stochastic Systems" class. 
     : Got to know first time during class, Probability applied to algorithms
     
   - View on Programmer's Job 
