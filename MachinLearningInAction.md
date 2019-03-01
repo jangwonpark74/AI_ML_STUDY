@@ -2,7 +2,7 @@
  - Peter Harrington
  
 # Preface
-  - challenge:   Stochastic caculus for credit risk analysis
+  - Challenge:   Stochastic caculus for credit risk analysis
   - Response :   Take "Discrete-time stochastic Systems" class. 
     : Got to know first time during class, Probability applied to algorithms
     
@@ -61,6 +61,16 @@
   3. Put steps 1 and 2 togther to see the results on a real-world dataset 
   
   
-# Part 1 
-## Classification 
+# Part 1 Machine Learning basics
+### Covers 
+  - A brief overview of machine learning
+  - Key tasks in machine learning
+  - Why you need to learn about machine learning
+  - Why Python is so great for machine learning
+  
+## 1.1 What is machine learning 
+  - Machine learning is turning data into information. 
+  
+### 1.1.1 Sensors and the data deluge<쇄도>  
+ 
   
