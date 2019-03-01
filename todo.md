@@ -60,3 +60,11 @@ Nvidia GPU toolkit 설치 후 다음 명령 수행
 ```
    $ pip3 install -U scikit-learn
 ```
+
+## install jupyter notebook
+```
+   $ pip3 install jupyter notebook
+```
+
+### Jupyter Notebook Short-cut
+- [short key map](https://driz2le.tistory.com/200)
