@@ -12,6 +12,10 @@
 
 # Uber Machine Learning Framework
 - [Uber, Michelangelo](https://eng.uber.com/michelangelo/)
+- [XGBoosting: A Scalable Tree Boosting System, 2016 University of Washington](https://arxiv.org/pdf/1603.02754.pdf) 
+
+## xgboost
+- [XGboost, distributed gradient boosting library](https://github.com/dmlc/xgboost) 
 
 # Software Libraries
 - [NVIDIA Collective Communication Library](https://developer.nvidia.com/nccl)
