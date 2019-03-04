@@ -1,5 +1,7 @@
-# Cluster based AI 
+# Cluster AI H/W (Facebook Big Basin)
+ -[Facebook, Big Basin Introduction](https://code.fb.com/data-center-engineering/introducing-big-basin-our-next-generation-ai-hardware/) 
 
+# Cluster based AI 
 - [Facebook, Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://research.fb.com/publications/accurate-large-minibatch-sgd-training-imagenet-in-1-hour/)
 - [Uber, Horovod](https://eng.uber.com/horovod/)
 - [Backend.AI](https://www.slideshare.net/inureyes/backendai-106386003?from_action=save)
