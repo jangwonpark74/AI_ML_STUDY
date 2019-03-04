@@ -18,7 +18,7 @@
 - [Facebook, Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://research.fb.com/publications/accurate-large-minibatch-sgd-training-imagenet-in-1-hour/)
 - [Uber, Horovod](https://eng.uber.com/horovod/)
 - [Backend.AI](https://www.slideshare.net/inureyes/backendai-106386003?from_action=save)
-
+- [Naver, C3DL](https://d2.naver.com/helloworld/1914772)
 
 # Stochastic Gradient Descent (SGD) 
 - [SGD overview](http://shuuki4.github.io/deep%20learning/2016/05/20/Gradient-Descent-Algorithm-Overview.html)
