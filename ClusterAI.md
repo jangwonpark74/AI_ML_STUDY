@@ -2,6 +2,9 @@
  - [Facebook, Big Basin Introduction](https://code.fb.com/data-center-engineering/introducing-big-basin-our-next-generation-ai-hardware/)
  - [Facebook, SSD JBOF Lightning](https://code.fb.com/data-center-engineering/introducing-lightning-a-flexible-nvme-jbof/)
 
+# Facebook Machine Learning at the Edge 
+ - [Facebook, ML at Edge Understanding Inferencing at the Edge v2](https://research.fb.com/wp-content/uploads/2018/12/Machine-Learning-at-Facebook-Understanding-Inference-at-the-Edge-v2.pdf)
+
 # Cluster based AI 
 - [Facebook, Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://research.fb.com/publications/accurate-large-minibatch-sgd-training-imagenet-in-1-hour/)
 - [Uber, Horovod](https://eng.uber.com/horovod/)
