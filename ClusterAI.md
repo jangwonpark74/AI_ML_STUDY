@@ -19,6 +19,7 @@
 
 
 # Stochastic Gradient Descent (SGD) 
+- [SGD overview](http://shuuki4.github.io/deep%20learning/2016/05/20/Gradient-Descent-Algorithm-Overview.html)
 
 # Uber Machine Learning Framework
 - [Uber, Michelangelo](https://eng.uber.com/michelangelo/)
