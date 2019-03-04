@@ -12,6 +12,7 @@
 
 # Uber Machine Learning Framework
 - [Uber, Michelangelo](https://eng.uber.com/michelangelo/)
+- [Uber, Scaling Machine Learning with Michelangelo](https://eng.uber.com/scaling-michelangelo/)
 - [XGBoosting: A Scalable Tree Boosting System, 2016 University of Washington](https://arxiv.org/pdf/1603.02754.pdf) 
 
 ## Apache Samza 
