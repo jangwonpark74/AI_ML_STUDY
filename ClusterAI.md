@@ -19,6 +19,9 @@
 # Uber Big Data Platform
  - [Uber Big Data Platform](https://eng.uber.com/uber-big-data-platform/)
 
+# Uber Dockerized MySQL
+ - [Uber, Dockerizing MySQL](https://eng.uber.com/dockerizing-mysql/)
+
 ## Apache Samza 
 - [Samza](http://samza.apache.org/)
 
