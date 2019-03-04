@@ -2,6 +2,9 @@
  - [Facebook, Big Basin Introduction](https://code.fb.com/data-center-engineering/introducing-big-basin-our-next-generation-ai-hardware/)
  - [Facebook, SSD JBOF Lightning](https://code.fb.com/data-center-engineering/introducing-lightning-a-flexible-nvme-jbof/)
 
+# Google T4 GPU IaaS 
+ - [Google, T4 GPU service](https://cloud.google.com/blog/products/ai-machine-learning/nvidia-tesla-t4-gpus-now-available-in-beta)
+
 # Distributed Machine Learning
  - [Distributed Machine Learning](http://www.cs.cmu.edu/~avrim/ML07/distributed-ml.pdf)
 
