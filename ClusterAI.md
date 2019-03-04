@@ -6,6 +6,9 @@
 # Facebook, R-CNN
  - [Facebook R-CNN](https://research.fb.com/wp-content/uploads/2017/08/maskrcnn.pdf)
 
+# Facebook Deep Learning Inferencing in Data Center
+ - [Facebook, DL inferencing HW requirements](https://arxiv.org/pdf/1811.09886.pdf)
+
 # Facebook Machine Learning at the Edge 
  - [Facebook, ML at Edge Understanding Inferencing at the Edge v2](https://research.fb.com/wp-content/uploads/2018/12/Machine-Learning-at-Facebook-Understanding-Inference-at-the-Edge-v2.pdf)
 
