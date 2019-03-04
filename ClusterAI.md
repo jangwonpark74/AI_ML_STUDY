@@ -2,6 +2,9 @@
  - [Facebook, Big Basin Introduction](https://code.fb.com/data-center-engineering/introducing-big-basin-our-next-generation-ai-hardware/)
  - [Facebook, SSD JBOF Lightning](https://code.fb.com/data-center-engineering/introducing-lightning-a-flexible-nvme-jbof/)
 
+# Distributed Machine Learning
+ - [Distributed Machine Learning](http://www.cs.cmu.edu/~avrim/ML07/distributed-ml.pdf)
+
 # Facebook, AR/VR 
  - [Deep Focus](https://www.oculus.com/blog/introducing-deepfocus-the-ai-rendering-system-powering-half-dome/)
 
