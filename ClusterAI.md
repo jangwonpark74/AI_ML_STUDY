@@ -2,6 +2,8 @@
  - [Facebook, Big Basin Introduction](https://code.fb.com/data-center-engineering/introducing-big-basin-our-next-generation-ai-hardware/)
  - [Facebook, SSD JBOF Lightning](https://code.fb.com/data-center-engineering/introducing-lightning-a-flexible-nvme-jbof/)
 
+# Facebook, AR/VR 
+ - [Deep Focus](https://www.oculus.com/blog/introducing-deepfocus-the-ai-rendering-system-powering-half-dome/)
 
 # Facebook, R-CNN
  - [Facebook R-CNN](https://research.fb.com/wp-content/uploads/2017/08/maskrcnn.pdf)
