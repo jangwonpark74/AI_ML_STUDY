@@ -15,6 +15,10 @@
 - [Uber, Scaling Machine Learning with Michelangelo](https://eng.uber.com/scaling-michelangelo/)
 - [XGBoosting: A Scalable Tree Boosting System, 2016 University of Washington](https://arxiv.org/pdf/1603.02754.pdf) 
 
+
+# Uber Big Data Platform
+ - [Uber Big Data Platform](https://eng.uber.com/uber-big-data-platform/)
+
 ## Apache Samza 
 - [Samza](http://samza.apache.org/)
 
