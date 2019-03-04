@@ -15,7 +15,7 @@
 - [XGBoosting: A Scalable Tree Boosting System, 2016 University of Washington](https://arxiv.org/pdf/1603.02754.pdf) 
 
 ## Spark & Spark MLLib
-- [Spark MLLib])(https://spark.apache.org/mllib/)
+- [Spark MLLib](https://spark.apache.org/mllib/)
 
 ## xgboost
 - [XGboost, distributed gradient boosting library](https://github.com/dmlc/xgboost) 
