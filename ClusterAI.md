@@ -14,6 +14,9 @@
 - [Uber, Michelangelo](https://eng.uber.com/michelangelo/)
 - [XGBoosting: A Scalable Tree Boosting System, 2016 University of Washington](https://arxiv.org/pdf/1603.02754.pdf) 
 
+## Apache Samza 
+- [Samza](http://samza.apache.org/)
+
 ## Spark & Spark MLLib
 - [Spark MLLib](https://spark.apache.org/mllib/)
 
