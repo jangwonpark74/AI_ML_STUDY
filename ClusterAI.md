@@ -10,6 +10,8 @@
 
 # Stochastic Gradient Descent (SGD) 
 
+# Uber Machine Learning Framework
+- [Uber, Michelangelo](https://eng.uber.com/michelangelo/)
 
 # Software Libraries
 - [NVIDIA Collective Communication Library](https://developer.nvidia.com/nccl)
