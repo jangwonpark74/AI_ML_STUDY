@@ -1,7 +1,11 @@
 # ML Courses 
 
-## AI Korea Course
+# AI Korea Course
 - [CS231 Convolutional Nueral Network 강좌 번역](http://aikorea.org/cs231n/)
+
+
+# Awesome Reinforcement Learning
+- [Awesome Reinforcement Learning](http://aikorea.org/awesome-rl/)
 
 # Machine Learning Lecture by Sargur Srihari
  - [Introduction to Machine Learning CSE574](https://cedar.buffalo.edu/~srihari/CSE574/)
