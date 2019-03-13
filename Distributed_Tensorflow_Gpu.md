@@ -3,6 +3,9 @@
 ## Distributed Tensorflow Introduction
  - [Distributed Tensorflow Introduction](http://amid.fish/assets/Distributed%20TensorFlow%20-%20A%20Gentle%20Introduction.html)
 
+## Tensorflow Collective All reduce 
+- [Tensorflow All Reduce](https://www.logicalclocks.com/goodbye-horovod-hello-tensorflow-collectiveallreduce/)
+
 ## Building Distributed Tensorflow Model
  - [Gradient descent distributed tensorflow](https://medium.com/gradient-descent/building-distributed-tensorflow-models-95bd744bceb7)
 
