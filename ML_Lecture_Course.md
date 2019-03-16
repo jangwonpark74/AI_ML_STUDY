@@ -22,5 +22,9 @@
 ## Google machine-learning
 - [crash course](https://developers.google.com/machine-learning/crash-course/ml-intro)
 
+
+## Deep Learning @ Oxford
+- [Deep Learning @ Oxford YouTube](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
+
 ## Deep Learning
 - [DeepLearning Author's site](http://www.deeplearningbook.org/)
