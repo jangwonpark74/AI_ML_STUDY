@@ -14,6 +14,7 @@
 
 ## Learning From Data
  - [Learning From Data](https://work.caltech.edu/lectures.html#lectures)
+ - [Learning From Data, YouTube](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
 
 ## Google machine-learning
 - [crash course](https://developers.google.com/machine-learning/crash-course/ml-intro)
