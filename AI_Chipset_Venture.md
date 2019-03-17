@@ -4,6 +4,8 @@
 # AI chipset venture
 - [DL startups ](https://www.forbes.com/sites/moorinsights/2019/01/24/a-cambrian-explosion-in-deep-learning-part-2-the-startups/?fbclid=IwAR2DOy-pmrQ0Wvbiz21q6r6MWC_KuBa4-VmVtM8X0W4BDkVjYByRdw62Ewg#6c72312b7840)
 
+- [Summary of AI HW startups](https://seekingalpha.com/instablog/243082-grxbstrd/5217201-nvidia-snapshot-competitive-ai-hardware)
+
 ## Wave Computing
  - [On Architecture of Wave Computing DPU](https://www.nextplatform.com/2017/08/23/first-depth-view-wave-computings-dpu-architecture-systems/)
  - [Interview of Wave Computing](https://artificial-intelligence.cioapplications.com/vendor/wave-computing-accelerating-machine-learning-with-dataflow-technology-cid-476-mid-36.html)
