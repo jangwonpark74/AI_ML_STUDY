@@ -8,6 +8,9 @@
 # Distributed Machine Learning
  - [Distributed Machine Learning](http://www.cs.cmu.edu/~avrim/ML07/distributed-ml.pdf)
 
+# Nvidia NCCL 
+ - [Nvidia GPU clustering](https://devblogs.nvidia.com/scaling-deep-learning-training-nccl/)
+
 # Facebook, AR/VR 
  - [Deep Focus](https://www.oculus.com/blog/introducing-deepfocus-the-ai-rendering-system-powering-half-dome/)
 
