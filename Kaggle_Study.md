@@ -8,3 +8,5 @@
 ### kMean Algorithm
 - [Data Science School kMean Clustering](https://datascienceschool.net/view-notebook/2205ad8f0c5947c08696e8927b466341/)
                           
+## Interview with 1st Rank Kaggler
+- [top kagglers](http://blog.kaggle.com/2018/05/07/profiling-top-kagglers-bestfitting-currently-1-in-the-world/)
