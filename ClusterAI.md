@@ -10,7 +10,7 @@
 
 # Nvidia NCCL 
  - [Nvidia GPU clustering](https://devblogs.nvidia.com/scaling-deep-learning-training-nccl/)
-
+ - [NCCL 2.4](https://devblogs.nvidia.com/massively-scale-deep-learning-training-nccl-2-4/)
 # Facebook, AR/VR 
  - [Deep Focus](https://www.oculus.com/blog/introducing-deepfocus-the-ai-rendering-system-powering-half-dome/)
 
