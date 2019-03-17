@@ -9,3 +9,4 @@
  - [Interview of Wave Computing](https://artificial-intelligence.cioapplications.com/vendor/wave-computing-accelerating-machine-learning-with-dataflow-technology-cid-476-mid-36.html)
  - [Wave Computing Server](https://static1.squarespace.com/static/56dd1fca555986f25c75343c/t/5b194f8803ce64317c5c3660/1528385417932/WaveComputing_ProductBrief_6.7.0.pdf)
  - [Data Flow Wave Computing](https://www.hotchips.org/wp-content/uploads/hc_archives/hc29/HC29.22-Tuesday-Pub/HC29.22.60-NeuralNet1-Pub/HC29.22.610-Dataflow-Deep-Nicol-Wave-07012017.pdf)
+ - [Wave Computing Software Architecture](https://www.nextplatform.com/2016/09/07/next-wave-deep-learning-architectures/)
