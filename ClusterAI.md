@@ -38,6 +38,9 @@
 - [Uber, Scaling Machine Learning with Michelangelo](https://eng.uber.com/scaling-michelangelo/)
 - [XGBoosting: A Scalable Tree Boosting System, 2016 University of Washington](https://arxiv.org/pdf/1603.02754.pdf) 
 
+# Multi-GPU Training with Estimator 
+- [Tensorflow Multi-GPU Estimator](https://medium.com/tensorflow/multi-gpu-training-with-estimators-tf-keras-and-tf-data-ba584c3134db)
+
 # Uber, PyML 
  - [Uber, PyML](https://eng.uber.com/michelangelo-pyml/)
 
