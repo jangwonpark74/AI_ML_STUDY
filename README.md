@@ -1,5 +1,12 @@
 # AI_ML_STUDY
 
+## GAN
+
+## Wasserstein GAN
+
+### Generator 
+#### Gated Recurrent Unit (GRU)
+#### Long-Short Term Memory (LSTM)
 
 
 ## HW Platform 
