@@ -11,6 +11,9 @@
 ## 한국어 처리 
 - [한국어 불용어 리스트](https://bab2min.tistory.com/544)
 
+## 한국어 뉴스 분석하기
+- [soynlp](https://github.com/lovit/soynlp/blob/master/notes/unskonlp.pdf)
+
 ## Beyond Word-Embedding
 - [neural nlp milestone](https://towardsdatascience.com/beyond-word-embeddings-part-1-an-overview-of-neural-nlp-milestones-82b97a47977f)
 
