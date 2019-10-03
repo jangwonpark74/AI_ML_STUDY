@@ -5,3 +5,6 @@
 
 # Apache Arrow
 - [Apache Arrow](https://arrow.apache.org/)
+
+# Apache Paraquet
+- [Apache Paraquet Spec](https://github.com/apache/parquet-format/blob/master/Encodings.md)
