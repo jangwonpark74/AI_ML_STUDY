@@ -1,5 +1,8 @@
 # NLP
 
+## Spacy Tool
+- [what is spacy](https://frhyme.github.io/python-lib/spacy_1/)
+
 ## Beyond Word-Embedding
 - [neural nlp milestone](https://towardsdatascience.com/beyond-word-embeddings-part-1-an-overview-of-neural-nlp-milestones-82b97a47977f)
 
