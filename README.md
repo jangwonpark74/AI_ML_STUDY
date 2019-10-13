@@ -6,6 +6,8 @@
 - [Loss Function Explained](https://medium.com/deep-learning-demystified/loss-functions-explained-3098e8ff2b27)
 - [Optimization](https://medium.com/deep-learning-demystified/https-medium-com-deep-learning-demystified-understanding-optimizers-313b787a69fe)
 
+## Dimensionality Reduction
+ - [Dimensionality Reduction](https://medium.com/analytics-vidhya/dimensionality-reduction-in-supervised-framework-and-partial-least-square-regression-b557a4c6c049)
 
 ## Reinforced Learning
 - [Fundamentals of Reinforced Learning](https://medium.com/gradientcrescent/fundamentals-of-reinforcement-learning-markov-decision-processes-policies-value-functions-94f7389e1e82)
