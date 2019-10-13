@@ -10,6 +10,9 @@
 ## Reinforced Learning
 - [Fundamentals of Reinforced Learning](https://medium.com/gradientcrescent/fundamentals-of-reinforcement-learning-markov-decision-processes-policies-value-functions-94f7389e1e82)
 
+## Understanding Markov Chai Monte-Carlo 
+- [MCMC](https://medium.com/analytics-vidhya/markov-chain-montecarlo-28dcde238e37)
+
 ## GAN
 
 ## Wasserstein GAN
