@@ -1,5 +1,10 @@
 # AI_ML_STUDY
 
+# AI ML Basics
+
+## Loss Function
+- [Selecting Loss Function](https://medium.com/deep-learning-demystified/loss-functions-explained-3098e8ff2b27)
+
 ## GAN
 
 ## Wasserstein GAN
