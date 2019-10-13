@@ -2,6 +2,8 @@
 
 # AI ML Basics
 
+- [Shannon's entropy](https://towardsdatascience.com/the-intuition-behind-shannons-entropy-e74820fe9800)
+
 ## Demystified Deep Learning
 - [Loss Function Explained](https://medium.com/deep-learning-demystified/loss-functions-explained-3098e8ff2b27)
 - [Optimization](https://medium.com/deep-learning-demystified/https-medium-com-deep-learning-demystified-understanding-optimizers-313b787a69fe)
