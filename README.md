@@ -8,7 +8,7 @@
 
 
 ## Reinforced Learning
-- [Reinforced Learning](https://medium.com/gradientcrescent/fundamentals-of-reinforcement-learning-markov-decision-processes-policies-value-functions-94f7389e1e82)
+- [Fundamentals of Reinforced Learning](https://medium.com/gradientcrescent/fundamentals-of-reinforcement-learning-markov-decision-processes-policies-value-functions-94f7389e1e82)
 
 ## GAN
 
