@@ -12,6 +12,7 @@
 ## Name Entity Recognition
 - [Named Entity Recognition](https://medium.com/analytics-vidhya/entity-linking-a-primary-nlp-task-for-information-extraction-22f9d4b90aa8)
 - [End-to-End Nueral Entity Linking](https://arxiv.org/pdf/1808.07699.pdf)
+- [DeepType](https://arxiv.org/pdf/1802.01021.pdf)
 
 ## 영어 구문
 - [영어 ](https://bab2min.tistory.com/346?category=494278)
