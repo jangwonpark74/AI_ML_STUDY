@@ -2,8 +2,9 @@
 
 # AI ML Basics
 
-## Loss Function
+## Demystified Deep Learning
 - [Loss Function Explained](https://medium.com/deep-learning-demystified/loss-functions-explained-3098e8ff2b27)
+- [Optimization](https://medium.com/deep-learning-demystified/https-medium-com-deep-learning-demystified-understanding-optimizers-313b787a69fe)
 
 ## GAN
 
