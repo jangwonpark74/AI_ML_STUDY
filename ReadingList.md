@@ -7,7 +7,8 @@
 ## Boltzmann Machines
  - [Deep Boltzmann Machines, Ruslan Salakhutdinov, Geoffrey Hinton](http://proceedings.mlr.press/v5/salakhutdinov09a/salakhutdinov09a.pdf)
 
-
+## Meta Transfer Objective
+- [](https://arxiv.org/pdf/1901.10912.pdf)
 
 # Book's for Machine Learning 
  - [Probabilistic Graphical Models, by Daphne Koller and Nir Friedman (MIT Press 2009)]
