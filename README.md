@@ -14,6 +14,9 @@
 ## Reinforced Learning
 - [Fundamentals of Reinforced Learning](https://medium.com/gradientcrescent/fundamentals-of-reinforcement-learning-markov-decision-processes-policies-value-functions-94f7389e1e82)
 
+## AI with Cause & Effect Relationship
+- [AI pioneer algorithms understand why?](https://www.wired.com/story/ai-pioneer-algorithms-understand-why/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20191021+ai+nl&mkt_tok=eyJpIjoiWkRBeE5tRmlOVFJqTkdKbSIsInQiOiJmYTQrbTluUWJmVGxXdXkxY2pKM0Y0eDNmUmlBcjRwOHEyQ2lRU21NVG4wV0xOdGg1blB0MnFIaGxXdFM3WjlrS242QkI5WkZTY1dqYmJyczNNNGJ1UE03SzJZWEhHY3RSKzYrRm5NTGVLRnpTVng5anFJbUYyMWJCa3dqeitRaSJ9)
+
 ## Understanding Markov Chai Monte-Carlo 
 - [MCMC](https://medium.com/analytics-vidhya/markov-chain-montecarlo-28dcde238e37)
 
