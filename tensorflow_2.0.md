@@ -1,3 +1,5 @@
+# Setup TensorFlow 2.0 
+- [Step by Step Guide Tensorflow 2.0](https://medium.com/@cran2367/install-and-setup-tensorflow-2-0-2c4914b9a265)
 
 # TensorFlow 2.0 introduction
 
