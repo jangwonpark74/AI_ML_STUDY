@@ -24,6 +24,9 @@
 ## Graph NN
 - [Introduction to Graph Nueral Network](https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3)
 
+## MobileNet
+- [Why MobileNet is Fast](https://medium.com/@yu4u/why-mobilenet-and-its-variants-e-g-shufflenet-are-fast-1c7048b9618d)
+
 ## GAN
 
 ## Wasserstein GAN
