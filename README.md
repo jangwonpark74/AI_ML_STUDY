@@ -20,6 +20,10 @@
 ## Understanding Markov Chai Monte-Carlo 
 - [MCMC](https://medium.com/analytics-vidhya/markov-chain-montecarlo-28dcde238e37)
 
+
+## Graph NN
+- [Introduction to Graph Nueral Network](https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3)
+
 ## GAN
 
 ## Wasserstein GAN
