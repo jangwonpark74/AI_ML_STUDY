@@ -3,6 +3,9 @@
 ## NLP Wikibook
 - [Wikibook](https://wikidocs.net/22647)
 
+## NLP Lecture 
+- [Natelie Parde CS521 통계적 자연어 처리 기법 및 딥러닝](http://www.natalieparde.com/teaching/cs521_spring2020.html)
+
 ## Spacy for chatbot
 - [what is spacy](https://frhyme.github.io/python-lib/spacy_1/)
 - [spacy 101](https://spacy.io/usage/spacy-101)
