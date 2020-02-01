@@ -1,7 +1,11 @@
 # NLP
 
+
 ## NLP Wikibook
 - [Wikibook](https://wikidocs.net/22647)
+
+## Speech and Language Processing
+- [eBook SLP v3 ](https://web.stanford.edu/~jurafsky/slp3/edbook_oct162019.pdf)
 
 ## NLP Lecture 
 - [Natelie Parde CS521 통계적 자연어 처리 기법 및 딥러닝](http://www.natalieparde.com/teaching/cs521_spring2020.html)
