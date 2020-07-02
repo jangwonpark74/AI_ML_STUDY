@@ -1,6 +1,10 @@
 # AI_ML_STUDY
 
-# AI ML Basics
+## 5G AI 
+- [Channel State Information Prediction for 5G Wireless Communication : Deep Learning Approach](https://ieeexplore.ieee.org/document/8395053)
+
+
+## AI ML Basics
 - [Shannon's entropy](https://towardsdatascience.com/the-intuition-behind-shannons-entropy-e74820fe9800)
 
 
