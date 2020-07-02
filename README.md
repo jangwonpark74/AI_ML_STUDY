@@ -1,8 +1,12 @@
 # AI_ML_STUDY
 
 # AI ML Basics
-
 - [Shannon's entropy](https://towardsdatascience.com/the-intuition-behind-shannons-entropy-e74820fe9800)
+
+
+## RNN Cheat sheet 
+- [stanford CS230](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
+
 
 ## Demystified Deep Learning
 - [Loss Function Explained](https://medium.com/deep-learning-demystified/loss-functions-explained-3098e8ff2b27)
