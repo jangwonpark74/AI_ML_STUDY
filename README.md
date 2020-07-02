@@ -2,7 +2,8 @@
 
 ## 5G AI 
 - [Channel State Information Prediction for 5G Wireless Communication : Deep Learning Approach](https://ieeexplore.ieee.org/document/8395053)
-
+- [Neural Network-Based Fading Channel Prediction : Comprehensive Overview](https://www.dfki.de/fileadmin/user_upload/import/10560_E08813020.pdf)
+- [Deep Learning for Physical Layer 5G Wireless Techniques: Opportunities, Challenges and Solutions](https://arxiv.org/pdf/1904.09673.pdf)
 
 ## AI ML Basics
 - [Shannon's entropy](https://towardsdatascience.com/the-intuition-behind-shannons-entropy-e74820fe9800)
