@@ -12,6 +12,9 @@
 ## RNN Cheat sheet 
 - [stanford CS230](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
 
+## Google Cloud AI 설정법
+- [Google AI platform notebook](https://zzsza.github.io/gcp/2020/05/10/ai-platform-notebooks/)
+
 
 ## Demystified Deep Learning
 - [Loss Function Explained](https://medium.com/deep-learning-demystified/loss-functions-explained-3098e8ff2b27)
