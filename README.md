@@ -39,6 +39,10 @@
 ## MobileNet
 - [Why MobileNet is Fast](https://medium.com/@yu4u/why-mobilenet-and-its-variants-e-g-shufflenet-are-fast-1c7048b9618d)
 
+### SIMD (Intel Programming) 
+- [ AVX programming guide](https://www.codeproject.com/Articles/874396/Crunching-Numbers-with-AVX-and-AVX)
+
+
 ## GAN
 
 ## Wasserstein GAN
