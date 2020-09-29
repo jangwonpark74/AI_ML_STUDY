@@ -8,6 +8,8 @@
 ## AI ML Basics
 - [Shannon's entropy](https://towardsdatascience.com/the-intuition-behind-shannons-entropy-e74820fe9800)
 
+## AI for All (Montreal AI Academy)
+ - [AI 101 First World--Class Overview of AI for ALL](http://www.montreal.ai/ai4all.pdf)
 
 ## RNN Cheat sheet 
 - [stanford CS230](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
