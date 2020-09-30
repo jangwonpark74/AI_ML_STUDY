@@ -18,6 +18,7 @@
 
 ### Understanding PyTorch with an example
 - [A step-by-step tutorial](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e#dc96)
+- [Automatic differentiation in PyTorch](https://openreview.net/pdf/25b8eee6c373d48b84e5e9c6e10e7cbbbce4ac73.pdf)
 
 ### AUTOGRAD : 자동 미분
 - [PyTorch Tutorial Site](https://tutorials.pytorch.kr/beginner/blitz/autograd_tutorial.html#sphx-glr-beginner-blitz-autograd-tutorial-py)
