@@ -10,3 +10,6 @@
 ## PyTorch Tutorial
 ### AUTOGRAD : 자동 미분
 - [PyTorch Tutorial Site](https://tutorials.pytorch.kr/beginner/blitz/autograd_tutorial.html#sphx-glr-beginner-blitz-autograd-tutorial-py)
+
+## PyTorch GPU
+- [PyTorch on the GPU - Training Neural Networks with CUDA](https://www.youtube.com/watch?v=Bs1mdHZiAS8)
