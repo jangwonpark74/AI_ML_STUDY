@@ -11,7 +11,8 @@
 ## PyTorch Tutorial
 
 ### Deep Learning Zero To All
-- [The Lab Tutorial](https://deeplearningzerotoall.github.io/season2/lec_pytorch.html)
+ -[Youtube Tutorial](https://www.youtube.com/playlist?list=PLQ28Nx3M4JrhkqBVIXg-i5_CVVoS1UzAv)
+- [The Lab Slides](https://deeplearningzerotoall.github.io/season2/lec_pytorch.html)
 
 
 ### Understanding PyTorch with an example
