@@ -7,6 +7,7 @@
 - [PyTorch 101, Part 5: Understanding Hooks](https://blog.paperspace.com/pytorch-hooks-gradient-clipping-debugging/)
 
 
+
 ## PyTorch Tutorial
 ### AUTOGRAD : 자동 미분
 - [PyTorch Tutorial Site](https://tutorials.pytorch.kr/beginner/blitz/autograd_tutorial.html#sphx-glr-beginner-blitz-autograd-tutorial-py)
@@ -18,3 +19,6 @@
 ## Activation Functions
 - [Empirical Evaluation of Rectified Activations in Convolution Network](https://arxiv.org/pdf/1505.00853.pdf)
 - [nn module activation](https://github.com/pytorch/pytorch/blob/master/torch/nn/modules/activation.py)
+
+## How to Develop DL Models 
+- [PyTorch Tutorial](https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models/)
