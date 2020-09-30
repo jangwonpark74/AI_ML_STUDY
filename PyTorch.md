@@ -1,4 +1,4 @@
-## PyTorch 
+## PyTorch 101
 
 - [PyTorch 101, Part1 : Understanding Graphs, Automatic Differentiation and Autograd ](https://blog.paperspace.com/pytorch-101-understanding-graphs-and-automatic-differentiation/)
 - [PyTorch 101, Part 2: Build your first Nueral Network](https://blog.paperspace.com/pytorch-101-building-neural-networks/)
@@ -9,6 +9,10 @@
 
 
 ## PyTorch Tutorial
+
+### Deep Learning Zero To All
+- [The Lab Tutorial](https://deeplearningzerotoall.github.io/season2/lec_pytorch.html)
+
 
 ### Understanding PyTorch with an example
 - [A step-by-step tutorial](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e#dc96)
