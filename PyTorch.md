@@ -9,6 +9,10 @@
 
 
 ## PyTorch Tutorial
+
+### Understanding PyTorch with an example
+- [A step-by-step tutorial](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e#dc96)
+
 ### AUTOGRAD : 자동 미분
 - [PyTorch Tutorial Site](https://tutorials.pytorch.kr/beginner/blitz/autograd_tutorial.html#sphx-glr-beginner-blitz-autograd-tutorial-py)
 
