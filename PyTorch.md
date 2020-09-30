@@ -17,3 +17,4 @@
 
 ## Activation Functions
 - [Empirical Evaluation of Rectified Activations in Convolution Network](https://arxiv.org/pdf/1505.00853.pdf)
+- [nn module activation](https://github.com/pytorch/pytorch/blob/master/torch/nn/modules/activation.py)
