@@ -42,7 +42,10 @@
 - [Distributed Parallel Library](https://www.kaggle.com/residentmario/notes-on-pytorch-library-features/code)
 
 
-## PyTorch Kaggle Examples
+## PyTorch Examples
+
+### Image Classification
+- [ Image Classification with PyTorch ] (https://www.pluralsight.com/guides/image-classification-with-pytorch)
 
 ### Geodata Machine Learning
 - [Geospatial data workshop](https://www.kaggle.com/jcarrillo/machine-learning-for-geospatial-data-workshop-2a)
