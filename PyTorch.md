@@ -32,6 +32,10 @@
 - [Empirical Evaluation of Rectified Activations in Convolution Network](https://arxiv.org/pdf/1505.00853.pdf)
 - [nn module activation](https://github.com/pytorch/pytorch/blob/master/torch/nn/modules/activation.py)
 
+## CrossEntropy vs BCELoss 함수 사용 시 주의점
+ - [BCELoss vs Cross Entropy in PyTorch](https://jaeyung1001.tistory.com/45)
+
+
 ### Batch Normalization
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)
 
