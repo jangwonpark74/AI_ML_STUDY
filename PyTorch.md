@@ -1,14 +1,7 @@
-## PyTorch 101
-
-- [PyTorch 101, Part1 : Understanding Graphs, Automatic Differentiation and Autograd ](https://blog.paperspace.com/pytorch-101-understanding-graphs-and-automatic-differentiation/)
-- [PyTorch 101, Part 2: Build your first Nueral Network](https://blog.paperspace.com/pytorch-101-building-neural-networks/)
-- [PyTorch 101, Part 3: Going Deep with PyTorch](https://blog.paperspace.com/pytorch-101-advanced/)
-- [PyTorch 101, Part 4: Memory Management and Using Multiple GPUs](https://blog.paperspace.com/pytorch-memory-multi-gpu-debugging/)
-- [PyTorch 101, Part 5: Understanding Hooks](https://blog.paperspace.com/pytorch-hooks-gradient-clipping-debugging/)
-
-
-
 ## PyTorch Tutorial
+
+### Stanford CS230 
+- [PyTorch code example](https://cs230.stanford.edu/blog/pytorch/)
 
 ### Deep Learning Zero To All
 - [모두를 위한 DL in PyTorch](https://github.com/deeplearningzerotoall/PyTorch)
@@ -21,15 +14,14 @@
  - [Convolution Operator](https://s3.amazonaws.com/assets.datacamp.com/production/course_15510/slides/chapter3.pdf)
  - [The Sequential Module](https://s3.amazonaws.com/assets.datacamp.com/production/course_15510/slides/chapter4.pdf)
 
-
 ### Understanding PyTorch with an example
 - [A step-by-step tutorial](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e#dc96)
 - [Automatic differentiation in PyTorch](https://openreview.net/pdf/25b8eee6c373d48b84e5e9c6e10e7cbbbce4ac73.pdf)
 
-## Pytorch Fundamentals
+## Incredible PyTorch
+- [PyTorch List for each Applications](https://github.com/ritchieng/the-incredible-pytorch)
 
-### Stanford CS230 
-- [PyTorch code example](https://cs230.stanford.edu/blog/pytorch/)
+## Pytorch Fundamentals
 
 ### Core Traning Step
 
@@ -42,8 +34,6 @@ loss.backward()         # compute gradients of all variables wrt loss
 
 optimizer.step()        # perform updates using calculated gradients
 ```
-
-
 
 ### AUTOGRAD : 자동 미분
 - [PyTorch Tutorial Site](https://tutorials.pytorch.kr/beginner/blitz/autograd_tutorial.html#sphx-glr-beginner-blitz-autograd-tutorial-py)
@@ -76,6 +66,15 @@ optimizer.step()        # perform updates using calculated gradients
 
 ### Distributed Paraellel PyTorch 
 - [Distributed Parallel Library](https://www.kaggle.com/residentmario/notes-on-pytorch-library-features/code)
+
+
+## PyTorch 101
+
+- [PyTorch 101, Part1 : Understanding Graphs, Automatic Differentiation and Autograd ](https://blog.paperspace.com/pytorch-101-understanding-graphs-and-automatic-differentiation/)
+- [PyTorch 101, Part 2: Build your first Nueral Network](https://blog.paperspace.com/pytorch-101-building-neural-networks/)
+- [PyTorch 101, Part 3: Going Deep with PyTorch](https://blog.paperspace.com/pytorch-101-advanced/)
+- [PyTorch 101, Part 4: Memory Management and Using Multiple GPUs](https://blog.paperspace.com/pytorch-memory-multi-gpu-debugging/)
+- [PyTorch 101, Part 5: Understanding Hooks](https://blog.paperspace.com/pytorch-hooks-gradient-clipping-debugging/)
 
 
 ## PyTorch Examples
