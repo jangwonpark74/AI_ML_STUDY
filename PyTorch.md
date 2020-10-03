@@ -45,7 +45,7 @@
 ## PyTorch Examples
 
 ### Image Classification
-- [ Image Classification with PyTorch ] (https://www.pluralsight.com/guides/image-classification-with-pytorch)
+- [Image Classification with PyTorch](https://www.pluralsight.com/guides/image-classification-with-pytorch)
 
 ### Geodata Machine Learning
 - [Geospatial data workshop](https://www.kaggle.com/jcarrillo/machine-learning-for-geospatial-data-workshop-2a)
