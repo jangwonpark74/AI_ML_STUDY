@@ -21,6 +21,9 @@
 ## Incredible PyTorch
 - [PyTorch List for each Applications](https://github.com/ritchieng/the-incredible-pytorch)
 
+## Deep Learning Book (MIT)
+- [Deep Learing Reference Book](http://www.deeplearningbook.org/)
+
 ## Pytorch Fundamentals
 
 ### Core Traning Step
