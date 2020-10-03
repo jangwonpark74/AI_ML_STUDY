@@ -28,6 +28,9 @@
 
 ## Pytorch Fundamentals
 
+### Stanford CS230 
+- [PyTorch code example](https://cs230.stanford.edu/blog/pytorch/)
+
 ### Core Traning Step
 
 ```python
