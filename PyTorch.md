@@ -32,6 +32,9 @@
 - [Empirical Evaluation of Rectified Activations in Convolution Network](https://arxiv.org/pdf/1505.00853.pdf)
 - [nn module activation](https://github.com/pytorch/pytorch/blob/master/torch/nn/modules/activation.py)
 
+## 자주 쓰는 Loss Function
+- [Cross Entropy vs MSE ](https://nuguziii.github.io/dev/dev-002/)
+
 ## Binary Cross Entropy
 - [Simple Neural Network with BCELoss](https://medium.com/analytics-vidhya/simple-neural-network-with-bceloss-for-binary-classification-for-a-custom-dataset-8d5c69ffffee)
 
