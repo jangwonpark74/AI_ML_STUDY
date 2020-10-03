@@ -24,19 +24,22 @@
 ### AUTOGRAD : 자동 미분
 - [PyTorch Tutorial Site](https://tutorials.pytorch.kr/beginner/blitz/autograd_tutorial.html#sphx-glr-beginner-blitz-autograd-tutorial-py)
 
-## PyTorch GPU
+### PyTorch GPU
 - [PyTorch on the GPU - Training Neural Networks with CUDA](https://www.youtube.com/watch?v=Bs1mdHZiAS8)
 
 
-## Activation Functions
+### Activation Functions
 - [Empirical Evaluation of Rectified Activations in Convolution Network](https://arxiv.org/pdf/1505.00853.pdf)
 - [nn module activation](https://github.com/pytorch/pytorch/blob/master/torch/nn/modules/activation.py)
 
-## Batch Normalization
+### Batch Normalization
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)
 
-## How to Develop DL Models 
+### How to Develop DL Models 
 - [PyTorch Tutorial](https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models/)
+
+### Distributed Paraellel PyTorch 
+- [Distributed Parallel Library](https://www.kaggle.com/residentmario/notes-on-pytorch-library-features/code)
 
 
 ## PyTorch Kaggle Examples
