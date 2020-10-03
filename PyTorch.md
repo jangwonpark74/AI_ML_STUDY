@@ -15,6 +15,12 @@
 - [Youtube Tutorial](https://www.youtube.com/playlist?list=PLQ28Nx3M4JrhkqBVIXg-i5_CVVoS1UzAv)
 - [The Lab Slides](https://deeplearningzerotoall.github.io/season2/lec_pytorch.html)
 
+### Datacamp Course 1551 PyTorch Tutorials
+ - [Introduction to PyTorch](https://s3.amazonaws.com/assets.datacamp.com/production/course_15510/slides/chapter1.pdf)
+ - [Activation Functions](https://s3.amazonaws.com/assets.datacamp.com/production/course_15510/slides/chapter2.pdf)
+ - [Convolution Operator](https://s3.amazonaws.com/assets.datacamp.com/production/course_15510/slides/chapter3.pdf)
+ - [The Sequential Module](https://s3.amazonaws.com/assets.datacamp.com/production/course_15510/slides/chapter4.pdf)
+
 
 ### Understanding PyTorch with an example
 - [A step-by-step tutorial](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e#dc96)
