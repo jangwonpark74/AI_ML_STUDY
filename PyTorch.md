@@ -27,6 +27,21 @@
 - [Automatic differentiation in PyTorch](https://openreview.net/pdf/25b8eee6c373d48b84e5e9c6e10e7cbbbce4ac73.pdf)
 
 ## Pytorch Fundamentals
+
+### Core Traning Step
+
+```python
+output_batch = model(train_batch)
+loss = loss_fn(output_batch, labels_batch)
+
+optimizer.zero_grad()   # clear previous gradients
+loss.backward()         # compute gradients of all variables wrt loss
+
+optimizer.step()        # perform updates using calculated gradients
+```
+
+
+
 ### AUTOGRAD : 자동 미분
 - [PyTorch Tutorial Site](https://tutorials.pytorch.kr/beginner/blitz/autograd_tutorial.html#sphx-glr-beginner-blitz-autograd-tutorial-py)
 
