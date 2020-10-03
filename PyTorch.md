@@ -50,3 +50,6 @@
 ### Geodata Machine Learning
 - [Geospatial data workshop](https://www.kaggle.com/jcarrillo/machine-learning-for-geospatial-data-workshop-2a)
 
+### NLP BERT 
+- [BERT fine tunning for PyTorch](https://medium.com/@aniruddha.choudhury94/part-2-bert-fine-tuning-tutorial-with-pytorch-for-text-classification-on-the-corpus-of-linguistic-18057ce330e1)
+
