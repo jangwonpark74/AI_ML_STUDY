@@ -41,6 +41,7 @@
 
 ## GTP-3
 - [GTP-3 Paper: Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
+- [GTP-3 overview & Latest Progress in NLP overview](https://medium.com/analytics-vidhya/openai-gpt-3-language-models-are-few-shot-learners-82531b3d3122)
 
 ## Coreference 
 - [Huggingface state-of-art neural coreference resolution](https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30)
