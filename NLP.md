@@ -38,5 +38,9 @@
 - [Search with BERT](https://www.blog.google/products/search/search-language-understanding-bert/)
 - [BERT 실험](https://blog.pingpong.us/dialog-bert-pretrain/)
 - [BERT code](https://github.com/google-research/bert)
+
+## GTP-3
+- [GTP-3 Paper: Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
+
 ## Coreference 
 - [Huggingface state-of-art neural coreference resolution](https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30)
