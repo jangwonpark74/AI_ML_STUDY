@@ -61,6 +61,10 @@ optimizer.step()        # perform updates using calculated gradients
 ### CrossEntropy vs BCELoss 함수 사용 시 주의점
  - [BCELoss vs Cross Entropy in PyTorch](https://jaeyung1001.tistory.com/45)
 
+### PyTorch LSTM
+ - [PyTorch LSTM](https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_lstm_neuralnetwork/)
+
+
 ### Batch Normalization
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)
 
