@@ -18,6 +18,10 @@
 - [Google AI platform notebook](https://zzsza.github.io/gcp/2020/05/10/ai-platform-notebooks/)
 
 
+## Nvidia DeepLearning Examples
+- [NVIDIA Deep Learning Examples for Tensor Cores](https://github.com/NVIDIA/DeepLearningExamples) 
+- [Nvidia Release Notes](https://docs.nvidia.com/deeplearning/frameworks/pytorch-release-notes/rel_20-11.html#rel_20-11)
+
 ## Demystified Deep Learning
 - [Loss Function Explained](https://medium.com/deep-learning-demystified/loss-functions-explained-3098e8ff2b27)
 - [Optimization](https://medium.com/deep-learning-demystified/https-medium-com-deep-learning-demystified-understanding-optimizers-313b787a69fe)
