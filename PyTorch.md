@@ -61,6 +61,9 @@ optimizer.step()        # perform updates using calculated gradients
 ### CrossEntropy vs BCELoss 함수 사용 시 주의점
  - [BCELoss vs Cross Entropy in PyTorch](https://jaeyung1001.tistory.com/45)
 
+### Quasi-Hyperbolic Momentum and ADAM for Deep Learning
+ - [ QHM, QHAdam paper](https://arxiv.org/pdf/1810.06801.pdf) 
+
 ### PyTorch LSTM
  - [PyTorch LSTM](https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_lstm_neuralnetwork/)
 
