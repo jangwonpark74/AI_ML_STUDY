@@ -1,5 +1,7 @@
 # NLP
 
+## NLP in Python Tutorial
+- [NPL in python by Alice Zhao](https://www.youtube.com/watch?v=xvqsFTUsOmc&feature=youtu.be) 
 
 ## NLP Wikibook
 - [Wikibook](https://wikidocs.net/22647)
