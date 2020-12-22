@@ -67,6 +67,9 @@ optimizer.step()        # perform updates using calculated gradients
 ### PyTorch LSTM
  - [PyTorch LSTM](https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_lstm_neuralnetwork/)
 
+### PyTorch RL
+ - [pytorch Reinforcement learning tutorial](https://www.toptal.com/deep-learning/pytorch-reinforcement-learning-tutorial)
+
 
 ### Batch Normalization
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)
