@@ -69,7 +69,7 @@ optimizer.step()        # perform updates using calculated gradients
 
 ### PyTorch RL
  - [pytorch Reinforcement learning tutorial](https://www.toptal.com/deep-learning/pytorch-reinforcement-learning-tutorial)
-
+ - [pytorch DQN Model](https://github.com/transedward/pytorch-dqn)
 
 ### Batch Normalization
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)
