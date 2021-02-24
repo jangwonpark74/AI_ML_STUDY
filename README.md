@@ -51,7 +51,7 @@
 
 ## LSTM 
 
-- [Long Short-Term Memory(LSTM) 이해하기 Christopher Olah 의 2015년 8월 글 번역] (https://dgkim5360.tistory.com/entry/understanding-long-short-term-memory-lstm-kr)1
+- [Long Short-Term Memory(LSTM) 이해하기 Christopher Olah 의 2015년 8월 글 번역](https://dgkim5360.tistory.com/entry/understanding-long-short-term-memory-lstm-kr)
 
 
 
