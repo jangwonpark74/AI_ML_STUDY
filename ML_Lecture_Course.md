@@ -8,6 +8,10 @@
 - [Probalistic Graph Models CSE674](https://cedar.buffalo.edu/~srihari/CSE674/)
 - [Deep Learning University @ Buffalo CSE676](https://cedar.buffalo.edu/~srihari/CSE676/)
 
+## Introduction to Deep Learning 
+- [MIT 6.S191(2020) : Introduction to Deep Learning](https://youtu.be/njKP3FqW3Sk)
+
+
 ## Learning From Data
 - [Learning From Data](https://work.caltech.edu/lectures.html#lectures)
 - [Learning From Data, YouTube](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
