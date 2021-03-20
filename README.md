@@ -8,6 +8,9 @@
 ## AI ML Basics
 - [Shannon's entropy](https://towardsdatascience.com/the-intuition-behind-shannons-entropy-e74820fe9800)
 
+## ML 강의 노트
+- [박수진님의 ML 강의 노트](https://wikidocs.net/book/587)
+
 ## AI for All (Montreal AI Academy)
  - [AI 101 First World--Class Overview of AI for ALL](http://www.montreal.ai/ai4all.pdf)
 
