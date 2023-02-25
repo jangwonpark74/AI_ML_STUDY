@@ -1,5 +1,10 @@
 # AI_ML_STUDY
 
+## Transformer
+- [ Attention is all you need](https://arxiv.org/pdf/1706.03762)
+- [ How do transformer works? "Attention is all you need" paper] (https://youtu.be/n9sLZPLOxG8)
+- [ Illustrated Transformer ](https://jalammar.github.io/illustrated-transformer/)
+- [ Tensor2Tensor (MasterClass) ](https://youtu.be/rBCqOTEfxvg)
 ## 5G AI 
 - [Channel State Information Prediction for 5G Wireless Communication : Deep Learning Approach](https://ieeexplore.ieee.org/document/8395053)
 - [Neural Network-Based Fading Channel Prediction : Comprehensive Overview](https://www.dfki.de/fileadmin/user_upload/import/10560_E08813020.pdf)
